@@ -121,7 +121,9 @@ Wireless control system demonstration
 PID control learning platform
 IoT and smart device integration
 👨‍💻 Author
-
+1.Muhammad Fahad Khan
+2.Saad Akhtar Khan
+3.Marwan ulhaq
 Embedded Systems Project
 Department of Electrical Engineering
 
